@@ -1,0 +1,8 @@
+.comment {
+	-fx-fill: #808080;
+    -fx-font-style: italic;
+}
+.keyword {
+	-fx-fill: #F28614;
+    -fx-font-weight: bolder;
+}
